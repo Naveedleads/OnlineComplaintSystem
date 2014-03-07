@@ -1,0 +1,204 @@
+body{
+
+	background: #4cced1;
+}
+
+#wrap{
+
+	width: 960px;
+	margin: auto;
+	background: white;	
+
+}
+/*header start*/
+#header{
+
+	width: 960px;
+	height: 190px;
+	 border-bottom: 1px  solid black;
+	 background-color: #008c82;
+	
+}
+#header ul li{
+
+display: inline;
+list-style: none;
+
+}
+#header ul li a{
+
+font-size: 25px;
+	color: white;
+	
+	
+	padding: 5px;
+	margin: 10px;
+	text-decoration: none;
+}
+#header ul li a:hover{
+
+	color: red;
+	background-color: black;
+}
+#navigation{
+	margin-left: -50px;
+margin-top: -15px;
+}
+/*header end*/
+/*conter start*/
+#content{
+
+	width: 960px;
+	height:600px;
+}
+
+#sub{
+
+
+margin-right: 100px;
+
+	float: right;
+	width: 600px;
+}
+
+h1{
+
+	margin-top: 20px;
+	font-size: 	25px;
+	color: brown;
+	font-style: italic;
+}
+p{
+
+	margin-left: 10px;
+	font-size: 16px;
+	font-style: italic;
+
+}
+#content .creat {
+margin-top: 10px;
+	width: 420px;
+	height: 100px;
+	float: left;
+	border:1px solid black;
+	margin-left: 4px;
+	border-radius: 5px;
+	padding-left: 50px;
+} 
+.creat img{
+
+	width: 100px;
+	height: 60px;
+	margin-top: 30px;
+}
+.creat li {
+	margin-top: -40px;
+	margin-left: 110px;
+	list-style: none;
+
+}
+.creat a{
+
+	font-style: italic;
+	color: red;
+}
+h2{
+
+	margin-top: 100px;
+}
+/*contern End*/
+/*left dropdwon div start */
+#left{
+
+	float: left;
+	margin-top: 50px;
+	
+	margin-left: 10px;
+	height: 300px;
+	width: 150px;
+}
+#left ul li {
+
+	list-style: none;
+	border-bottom: 4px  solid black;
+	 background-color: #008c82;
+	margin-left: -40px;
+	height: 40px;
+	border-radius: 5px;
+	padding-top: 10px;
+	}
+#left ul li a{
+	text-decoration: none;
+	margin-left: 5px;
+color: white;	
+
+}
+#left ul li a:hover{
+
+	color: white;
+	background-color: red;
+}
+
+/*End left div*/
+
+
+
+
+/*start Exting complain page */
+#count{
+
+	float: right;
+
+margin-right: 300px;
+
+
+}
+#count form{
+	
+}
+#count input {
+	margin-left: 50px;
+	width: 300px;	
+	height: 20px;
+	border-radius: 3px;
+	border: 2px solid black;
+
+	}
+#count input[type="submit"]{
+	margin-left: 300px;
+	background:olive;
+	font-style: bold;
+	font-size: 10px;
+	width: 60px;
+	height: 30px;
+
+}
+
+/*end */
+/*footer div start*/
+#footer{
+
+	width: 960px;
+	height: 150px;
+height:  
+
+
+}
+
+#footer ul li{
+
+	display: inline;
+	list-style: none;
+}
+#footer ul li a img:hover{
+	color: white;
+	background-color: blue;
+
+ 
+}
+
+#fo{
+
+	margin-top: -140px;
+font-style: italic;
+}

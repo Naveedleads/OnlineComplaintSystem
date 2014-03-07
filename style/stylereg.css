@@ -1,0 +1,36 @@
+h2{
+	margin-top: 20px;
+}
+#cout form{
+	margin-left: 250px;
+	margin-top: 10px;
+}
+#cout input {
+	margin-left: 50px;
+	width: 300px;	
+	height: 20px;
+	border: 1px solid black;
+	border-radius: 3px;
+
+	}
+#cout input[type="submit"]{
+	margin-left: 350px;
+	background:olive;
+	font-style: bold;
+	font-size: 10px;
+	width: 60px;
+	height: 30px;
+
+}
+
+#cout select{
+
+	width: 	300px;
+	margin-left: 	50px;
+}
+#ca input{
+	width: 400px;
+	height: 200px;
+}
+
+
